@@ -1,3 +1,48 @@
+<img src="./blackhole-banner.svg" width="100%" alt="Khamidullo Maratov: platform engineer, physics, security" />
+
+<p align="center">
+<a href="https://github.com/fr0zen3301/EMMA"><img src="https://img.shields.io/github/stars/fr0zen3301/EMMA?style=for-the-badge&logo=github&label=EMMA&labelColor=707279&color=D9CFFF" alt="EMMA stars" /></a>
+<a href="https://www.linkedin.com/in/khamidullo-maratov1337"><img src="https://img.shields.io/badge/LinkedIn-707279?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+### About
+
+I work in cloud infrastructure in Seoul, on backend services for authentication, notifications and server provisioning (FastAPI, PostgreSQL, Redis). My background is in information security.
+
+In my own time it's physics and maths: I write gravity simulations in C++, built a decision maker that runs on quantum randomness, and take online courses in quantum mechanics and calculus.
+
+I speak Uzbek, Russian, English and Korean.
+
+### Now
+
+[ai-study](https://github.com/fr0zen3301/ai-study): learning AI by building, from linear algebra visualizations to deep learning with spiking neural networks (snnTorch).
+
+### Projects
+
+- [EMMA](https://github.com/fr0zen3301/EMMA): real-time N-body gravity simulator in C++ with SFML and Dear ImGui. Velocity Verlet integration keeps orbits stable, and a Barnes-Hut quad-tree cuts the force step to O(N log N). Bodies merge when they collide.
+- [Universe Splitter](https://github.com/fr0zen3301/universe-splitter): a quantum decision maker. Enter two weighted options and it picks one using randomness from several quantum sources, themed on the Many-Worlds interpretation. React, Vite and Cloudflare Pages.
+- [BodyTracking](https://github.com/fr0zen3301/BodyTracking): an augmented-reality iOS app in Swift that tracks your skeleton as you move (ARKit, RealityKit).
+
+### Research
+
+- Quantum key distribution for drone-to-drone and drone-to-ground links, with Qiskit experiments on qubit state reliability
+- Decoding a drone's 20-byte serial control protocol and analyzing its Wi-Fi traffic in Wireshark
+- Face anonymisation in Python and OpenCV to protect witness identities
+
+### Experience
+
+- `2026–now` Platform engineer in cloud infrastructure, Seoul
+- `2025–26` Researcher, National Consortium for Drone Security
+- `2024` AI software developer, Soonchunhyang University
+- `2024` AI research and algorithm development intern, University of San Carlos, Cebu
+- `2021–25` BEng Information Security Engineering, Soonchunhyang University (GPA 3.58 / 4.0)
+
+### Coursework
+
+- Quantum Mechanics, University of Colorado Boulder (online, 2025)
+- Calculus: Intermediate, University of Oxford (online, CATS credit, 2025)
+- Quantum Physics 8.04, MIT (online)
+
 ### Skills
 
 <table>
