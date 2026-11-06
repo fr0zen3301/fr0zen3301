@@ -11,8 +11,6 @@ I work in cloud infrastructure in Seoul, on backend services for authentication,
 
 In my own time it's physics and maths: I write gravity simulations in C++, built a decision maker that runs on quantum randomness, and take online courses in quantum mechanics and calculus.
 
-I speak Uzbek, Russian, English and Korean.
-
 ### Now
 
 [ai-study](https://github.com/fr0zen3301/ai-study): learning AI by building, from linear algebra visualizations to deep learning with spiking neural networks (snnTorch).
