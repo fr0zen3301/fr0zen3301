@@ -18,7 +18,7 @@ In my own time it's physics and maths: I write gravity simulations in C++, built
 
 ### Projects
 
-- [EMMA](https://github.com/fr0zen3301/EMMA): real-time N-body gravity simulator in C++ with SFML and Dear ImGui. Velocity Verlet integration keeps orbits stable, and a Barnes-Hut quad-tree cuts the force step to O(N log N). Bodies merge when they collide.
+- [EMMA](https://github.com/fr0zen3301/EMMA): real-time gravity simulator in C++ with SFML and Dear ImGui, in real units. The solar system starts from the planets' actual positions on 1 January 2000, and you can launch your own bodies by dragging, with a preview of where they'll go. Velocity Verlet with adaptive substeps handles close passes, and a Barnes-Hut quadtree takes over above 64 bodies.
 - [Universe Splitter](https://github.com/fr0zen3301/universe-splitter): a quantum decision maker. Enter two weighted options and it picks one using randomness from several quantum sources, themed on the Many-Worlds interpretation. React, Vite and Cloudflare Pages.
 - [BodyTracking](https://github.com/fr0zen3301/BodyTracking): an augmented-reality iOS app in Swift that tracks your skeleton as you move (ARKit, RealityKit).
 
