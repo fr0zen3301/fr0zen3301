@@ -2,6 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/fr0zen3301/EMMA"><img src="https://img.shields.io/github/stars/fr0zen3301/EMMA?style=for-the-badge&logo=github&label=EMMA&labelColor=707279&color=D9CFFF" alt="EMMA stars" /></a>
+<a href="https://github.com/fr0zen3301/ai-study"><img src="https://img.shields.io/github/stars/fr0zen3301/ai-study?style=for-the-badge&logo=github&label=ai-study&labelColor=707279&color=D9CFFF" alt="ai-study stars" /></a>
 <a href="https://www.linkedin.com/in/khamidullo-maratov1337"><img src="https://img.shields.io/badge/LinkedIn-707279?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
